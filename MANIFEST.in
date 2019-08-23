@@ -1,0 +1,3 @@
+graft huaweicloud_exporter/static
+graft huaweicloud_exporter/templates
+global-exclude *.pyc
